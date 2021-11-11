@@ -5,7 +5,7 @@ This repository contains a set of 8 tutorials that cover the basics of  programi
 
 Tutorial 1. The basics of pyhton: Lists and numpy arrays, defining basic functions and plotting with matplotlib 
 
-Tutorial 2. Higher dimensional array , conditional statements, loops, and generator expressions
+Tutorial 2. Higher dimensional arrays, conditional statements, loops, and generator expressions
 
 Tutorial 3. Numeric Integration (scipy.integrate.quad, dblquad)
 
