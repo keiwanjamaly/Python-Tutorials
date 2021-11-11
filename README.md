@@ -1,7 +1,7 @@
 # Explore-Python-Tutorials
 
-Welcome to the python programing.  
-This repository contains a set of 8 tutorials that cover the basics of  programing using pyhton as the main languange. During this course we will cover the following topics:
+Welcome to  python programing.  
+This repository contains a set of 8 tutorials that cover the basics of  programing using pyhton as  main languange. During this course we will cover the following topics:
 
 Tutorial 1. The basics of pyhton: Lists and numpy arrays, defining basic functions and plotting with matplotlib 
 
